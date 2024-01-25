@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "question": "What is the name of Sonics friend that has two tails?",
+            "answers": [
+                {
+                    "id": "1",
+                    "text": "Mario"
+                },
+                {
+                    "id": "2",
+                    "text": "Knuckle"
+                },
+                {
+                    "id": "3",
+                    "text": "Miles (Tails) Power"
+                },
+                {
+                    "id": "4",
+                    "text": "Eggman"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "question": "What is the name of Harry Potter's owl?",
+            "answers": [
+                {
+                    "id": "1",
+                    "text": "Scabbers"
+                },
+                {
+                    "id": "2",
+                    "text": "Voldermort"
+                },
+                {
+                    "id": "3",
+                    "text": "Owlie"
+                },
+                {
+                    "id": "4",
+                    "text": "Hedwig"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "question": "What one of these is a horror movie?",
+            "answers": [
+                {
+                    "id": "1",
+                    "text": "Paddington"
+                },
+                {
+                    "id": "2",
+                    "text": "Barbie"
+                },
+                {
+                    "id": "3",
+                    "text": "Five Nights At Freddy's"
+                },
+                {
+                    "id": "4",
+                    "text": "Trolls"
+                },
+                {
+                    "id": "5",
+                    "text": "Sonic The Hedgehog"
+                }
+            ]
+        }
+    ]
+}
